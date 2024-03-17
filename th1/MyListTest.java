@@ -10,6 +10,7 @@ public class MyListTest {
         listInterger.add(4);
         listInterger.add(5);
         listInterger.add(6);
+        listInterger.add(7);
         int chooseElement = listInterger.get(3);
 
         System.out.println(listInterger);
